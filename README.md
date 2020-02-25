@@ -1,5 +1,6 @@
 # Train-ticketing-system
-- Practical training/Java
+- 语言：Java
+- 环境：myeclipse10 + SQLserver 2008
 - 本系统设计主要是根据售票业务的基本流程进行的，系统功能包括如下几个方面：
    - 用户注册、登陆；
    - 查询：分为对车次信息的查询和客户对已订车票信息的查询；
